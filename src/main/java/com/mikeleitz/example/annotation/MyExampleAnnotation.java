@@ -1,4 +1,4 @@
-package com.mikeleitz.example.annotation.annotation;
+package com.mikeleitz.example.annotation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

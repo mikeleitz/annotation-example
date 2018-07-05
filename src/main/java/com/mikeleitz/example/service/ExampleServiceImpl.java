@@ -1,4 +1,4 @@
-package com.mikeleitz.example.annotation.service;
+package com.mikeleitz.example.service;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;

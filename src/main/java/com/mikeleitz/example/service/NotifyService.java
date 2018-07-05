@@ -1,6 +1,6 @@
-package com.mikeleitz.example.annotation.service;
+package com.mikeleitz.example.service;
 
-import com.mikeleitz.example.annotation.annotation.SeverityEnum;
+import com.mikeleitz.example.annotation.SeverityEnum;
 
 /**
  * @author Mike Leitz

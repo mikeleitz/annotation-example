@@ -1,4 +1,4 @@
-package com.mikeleitz.example.annotation.config;
+package com.mikeleitz.example.config;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

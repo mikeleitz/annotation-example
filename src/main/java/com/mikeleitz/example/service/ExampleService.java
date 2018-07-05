@@ -1,4 +1,4 @@
-package com.mikeleitz.example.annotation.service;
+package com.mikeleitz.example.service;
 
 /**
  * @author Mike Leitz
