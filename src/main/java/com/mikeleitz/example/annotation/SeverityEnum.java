@@ -1,4 +1,4 @@
-package com.mikeleitz.example.annotation.annotation;
+package com.mikeleitz.example.annotation;
 
 /**
  * @author Mike Leitz

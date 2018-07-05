@@ -1,8 +1,8 @@
-package com.mikeleitz.example.annotation;
+package com.mikeleitz.example;
 
-import com.mikeleitz.example.annotation.config.AspectAnnotationConfiguration;
-import com.mikeleitz.example.annotation.service.AnnotatedExampleService;
-import com.mikeleitz.example.annotation.service.ExampleService;
+import com.mikeleitz.example.config.AspectAnnotationConfiguration;
+import com.mikeleitz.example.service.AnnotatedExampleService;
+import com.mikeleitz.example.service.ExampleService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

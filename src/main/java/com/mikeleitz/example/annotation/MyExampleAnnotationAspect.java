@@ -1,6 +1,6 @@
-package com.mikeleitz.example.annotation.annotation;
+package com.mikeleitz.example.annotation;
 
-import com.mikeleitz.example.annotation.service.NotifyService;
+import com.mikeleitz.example.service.NotifyService;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
@@ -42,7 +42,7 @@ public class MyExampleAnnotationAspect implements ApplicationContextAware {
      */
     private static NotifyService _notifyService;
 
-    @Around("execution(@MyExampleAnnotation * *(..))")
+    @Around("execution(@com.mikeleitz.example.annotation.MyExampleAnnotation * *(..))")
     public Object myExampleAnnotationAdvice(ProceedingJoinPoint joinPoint) throws Throwable {
         Object returnValue;
 

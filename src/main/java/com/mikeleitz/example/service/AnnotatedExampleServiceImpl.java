@@ -1,7 +1,7 @@
-package com.mikeleitz.example.annotation.service;
+package com.mikeleitz.example.service;
 
-import com.mikeleitz.example.annotation.annotation.MyExampleAnnotation;
-import com.mikeleitz.example.annotation.annotation.SeverityEnum;
+import com.mikeleitz.example.annotation.MyExampleAnnotation;
+import com.mikeleitz.example.annotation.SeverityEnum;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

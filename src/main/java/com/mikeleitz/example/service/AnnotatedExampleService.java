@@ -1,4 +1,4 @@
-package com.mikeleitz.example.annotation.service;
+package com.mikeleitz.example.service;
 
 /**
  * This service and its implementation are the same as ExampleService.  The only difference
